@@ -10,6 +10,10 @@ import org.bukkit.event.block.BlockBreakEvent;
 
 import java.util.Set;
 
+/**
+ * Listens for block breaks
+ * If any wood log is detected and breaker has permission and player is shifting, then it will timber.
+ */
 public class TreeBreakListener implements Listener {
 
     @EventHandler (priority = EventPriority.HIGH)
