@@ -1,0 +1,6 @@
+name: Timber
+main: me.markiscool.timber.Timber
+version: 1.0
+author: MarkIsCool
+description: Break down trees in one break
+api-version: 1.13
