@@ -8,6 +8,10 @@ import org.bukkit.util.Vector;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Create a new instance of this class and
+ * it will check for trees
+ */
 public class TreeChecker {
 
     private Set<Vector> offsets;
