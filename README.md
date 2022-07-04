@@ -2,6 +2,7 @@
 A Minecraft server-sided plugin for Spigot 1.13.2 servers. Breaks trees with one hit by holding sneak. (1.5k+ downloads)
 
 ## bStats:
+10 active servers using it, 15 at most
 https://bstats.org/plugin/bukkit/Timber/4558
 
 ## SpigotMC
